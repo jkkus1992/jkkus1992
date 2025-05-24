@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n41z3r
+- 👋 Hi, I’m jkkus1992
 - 👀 I’m interested in java developer and QA
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on discuss programming
