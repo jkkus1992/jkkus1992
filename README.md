@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jkkus1992
-- 👀 I’m interested in java developer and QA
+- 👀 I’m interested in software like specialist senior java&python developer and QA
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on discuss programming
 - 📫 How to reach me ...
